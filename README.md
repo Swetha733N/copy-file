@@ -21,7 +21,9 @@ with open("text1.txt",'r') as fp:
     msg1=fp.read()
 with open("copytxt",'w') as fp1:
     fp1.write(msg1)
+    
 ```
+
 ### OUTPUT:
 ![image](https://github.com/Swetha733N/copy-file/assets/122199934/5e74136c-124d-42ab-af7d-48a73a255e34)
 ![image](https://github.com/Swetha733N/copy-file/assets/122199934/6cb8870e-260c-421e-90b4-8595e241da6e)
