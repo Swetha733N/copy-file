@@ -4,6 +4,8 @@ To write a python program for copying the contents from one file to another file
 ## EQUIPEMENT'S REQUIRED: 
 PC
 Anaconda - Python 3.7
+
+
 ## ALGORITHM: 
 1. Get the input matrix using np.array() 
 
@@ -23,6 +25,7 @@ with open("copytxt",'w') as fp1:
     fp1.write(msg1)
     
 ```
+
 
 ### OUTPUT:
 ![image](https://github.com/Swetha733N/copy-file/assets/122199934/5e74136c-124d-42ab-af7d-48a73a255e34)
